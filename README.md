@@ -1,7 +1,7 @@
 # Scaling Android Apps: Building a Unified Multi-Module Framework with Clean Architecture and CI/CD
 
 **By Mohamed Kaif Bagwan**  
-Senior Android Engineer | Kotlin, Jetpack Compose, MVVM Expert
+Senior Android Engineer
 
 **Published:** January 12, 2026   
 **LinkedIn:** [linkedin.com/in/mohamed-kaif-657bba20b](https://linkedin.com/in/mohamed-kaif-657bba20b)
@@ -965,8 +965,6 @@ Building scalable Android apps in health-tech requires a careful balance of arch
 Remember: there's no one-size-fits-all solution. Start with your team's needs, iterate based on pain points, and always measure impact.
 
 ---
-
-**Ready to implement?** Check out the [accompanying repository](https://github.com/mohamedkaif356/android-architecture-insights) for complete code examples and module templates.
 
 **Questions or feedback?** Reach out on [LinkedIn](https://linkedin.com/in/mohamed-kaif-657bba20b) or open an issue on GitHub.
 
